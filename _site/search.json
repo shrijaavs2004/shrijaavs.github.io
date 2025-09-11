@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site\nHey! This is Shrijaa……"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "MDS Quarto Website",
+    "section": "",
+    "text": "Quarto Demo Site\nThis is a demo Website …\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
